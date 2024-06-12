@@ -1,0 +1,22 @@
+{
+  "name": "ms-ts-rapidfire-quiz",
+  "version": "5.0.0",
+  "description": "it is an simple cli based typescript rapid fire quiz application",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "ms-ts-rapidfire-quiz": "main.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhib Ali Siddiqui",
+  "license": "ISC",
+  "dependencies": {
+    "gradient": "^0.2.0",
+    "inquirer": "^9.2.23"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
